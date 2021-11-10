@@ -18,6 +18,8 @@ A. CANTIDADES Y UNIDADES
 
 A-1 UNIDADES DE MEDICIÓN 
 
+UNIDADES FUNDAMENTALES Y UNIDADES DERIVADAS
+
 Esto se basa en el sistema SI, el mismo consta de 7 unidades fundamentales y 2 unidades complementarias:
 
 UNIDADES FUNDAMENTALES
@@ -28,8 +30,11 @@ UNIDADES COMPLEMENTARIAS
 
 ![image](https://user-images.githubusercontent.com/94008521/141196228-8a279af4-7f34-4e24-911a-cf2d761d1813.png)
 
+Por otro lado en las cantidades eléctricas y unidades derivadas existen dos tipos de casos con respecto a los símbolos, el primero donde se utiliza un símbolo para representar el nombre de la cantidad y otro para identificar la unidad de medición de dicha cantidad; y el segundo donde la misma letra representa tanto la cantidad como su unidad.
 
-UNIDADES FUNDAMENTALES Y UNIDADES DERIVADAS
+CANTIDADES ELÉCTRICAS Y UNIDADES DERIVADAS
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
