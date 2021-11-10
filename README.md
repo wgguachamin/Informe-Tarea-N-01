@@ -72,7 +72,6 @@ División Los pasos para dividir números presentados en potencias de diez son l
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMA
 
-
 4. VIDEO
 
 5. CONCLUSIONES
