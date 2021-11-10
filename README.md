@@ -70,6 +70,9 @@ Multiplicación Los pasos para multiplicar números presentados en potencias de 
 1. Multiplicar los números directamente sin sus potencias de diez.
 2. Sumar las potencias de diez algebraicamente (los exponentes no tienen que ser los mismos).
 
+División Los pasos para dividir números presentados en potencias de diez son los siguientes:
+1. Dividir los números directamente sin sus potencias de diez.
+2. Restar la potencia de diez del denominador de la potencia de diez del numerador (las potencias no tienen que ser las mismas).
 
 
 4. VIDEO
