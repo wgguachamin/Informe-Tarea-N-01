@@ -7,7 +7,9 @@ Aprender los conceptos de corriente, voltaje y resistencia, mediante la lectura 
 1.2. OBJETIVOS ESPECÍFICOS:
 
 A. Conocer las cantidades y las unidades de medida que se empleman en los circuitos eléctricos.
+
 B. Determinar las principales conversiones de unidades métricas.
+
 C. Establecer las formulas necesarias para el voltaje, la resistencia y la corriente de un circuito eléctrico.
 
 2. MARCO TEÓRICO
