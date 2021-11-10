@@ -40,6 +40,12 @@ CANTIDADES MAGNÉTICAS Y UNIDADES DERIVADAS
 
 ![image](https://user-images.githubusercontent.com/94008521/141207671-7e59e5f6-0970-4908-97e2-cdeda2785d34.png)
 
+A-2 NOTACIÓN CIÉNTIFICA
+
+La notación científica proporciona un método conveniente para representar números grandes y pequeños y realizar cálculos que implican tales números. En notación científica, una cantidad se expresa como el producto de un número situado entre 1 y 10 y una potencia de diez.
+
+POTENCIAS DE DIEZ
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
