@@ -40,12 +40,6 @@ CANTIDADES MAGNÉTICAS Y UNIDADES DERIVADAS
 
 ![image](https://user-images.githubusercontent.com/94008521/141207671-7e59e5f6-0970-4908-97e2-cdeda2785d34.png)
 
-A-2 NOTACIÓN CIÉNTIFICA
-
-La notación científica proporciona un método conveniente para representar números grandes y pequeños y realizar cálculos que implican tales números. En notación científica, una cantidad se expresa como el producto de un número situado entre 1 y 10 y una potencia de diez.
-
-POTENCIAS DE DIEZ
-
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -59,11 +53,29 @@ SECCIÓN 1–2 (Notación Científica)
   
 	c) 2,000,000= 2×10^6
 
-Para expresar los números en notación científica  se recorre  lugares a la izquierda o derecha  según se requiera, y se multiplica por la potencia 10 elevada al número de espacios recorridos. 
+Para expresar los números en notación científica  se recorre  lugares a la izquierda o derecha  según se requiera, y se multiplica por la potencia 10 elevada al número de espacios recorridos. Si se recorren espacios a la izquierda se eleva la potencia con menos, si es a la derecha se eleva con más.
 
-3.	Exprese cada uno de los números siguientes en notación científica:
+3.	Exprese cada uno de los números siguientes en notación científica: 
 
-	a) 32x10^3 
+	a) 8400 = 8.4x10^3
+	
+	b) 99,000 = 9x10^4
+	
+	c) 0,2x10^6 = 2x10^5
+	
+Para expresar los números en notación científica se recorre lugares a la izquierda o derecha y se multiplica por la potencia 10 elevada al número de espacios recorridos. Si se recorren espacios a la izquierda se eleva la potencia con menos, si es a la derecha se eleva con más.
+	
+5.	Exprese cada uno de los números siguientes en notación científica:
+
+	a) 32x10^3 = 3.2x10^4
+	
+	b) 6800x10^-6 = 6.8x10^-3
+	
+	c)870x10^8 = 8.7x10^10
+	
+Para expresar los números en notación científica se recorre lugares a la izquierda o derecha y se multiplica por la potencia 10 elevada al número de espacios recorridos. Si se recorren espacios a la izquierda se eleva la potencia con menos, si es a la derecha se eleva con más.
+
+7.	Sume los números siguientes:
 
 
 
@@ -73,4 +85,4 @@ Para expresar los números en notación científica  se recorre  lugares a la iz
 
 5. CONCLUSIONES
 
-6. BIBLIOGRAFÍA
+6. BIBLIOGRAFÍA 
