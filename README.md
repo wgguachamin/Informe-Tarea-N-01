@@ -56,6 +56,8 @@ Para expresar los números en notación científica  se recorre  lugares a la iz
 
 3.	Exprese cada uno de los números siguientes en notación científica:
 
+	a) 32x10^3 
+
 
 
 
