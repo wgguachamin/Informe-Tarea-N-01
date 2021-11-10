@@ -56,8 +56,6 @@ Para expresar los números en notación científica  se recorre  lugares a la iz
 
 3.	Exprese cada uno de los números siguientes en notación científica:
 
-	a) 
-
 
 
 
@@ -66,4 +64,4 @@ Para expresar los números en notación científica  se recorre  lugares a la iz
 
 5. CONCLUSIONES
 
-6. BIBLIOGRAFÍA
+6. BIBLIOGRAFÍA 
