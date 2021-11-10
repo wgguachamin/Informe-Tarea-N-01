@@ -38,9 +38,20 @@ CANTIDADES ELÉCTRICAS Y UNIDADES DERIVADAS
 
 CANTIDADES MAGNÉTICAS Y UNIDADES DERIVADAS
 
+![image](https://user-images.githubusercontent.com/94008521/141202480-65c8419a-295c-486a-b90c-a356280b47cd.png)
+
+A-2 NOTACIÓN CIENTIFICA
+
+La notación científica proporciona un método conveniente para representar números grandes y pequeños y realizar cálculos que implican tales números. En notación científica, una cantidad se expresa como el producto de un número situado entre 1 y 10 y una potencia de diez. 
+
+ALGUNAS POTENCIAS DE DIEZ POSITIVAS Y NEGATIVAS
+
+![image](https://user-images.githubusercontent.com/94008521/141205058-1edfae06-ce6b-493b-8ca1-86b4404405c4.png)
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+
 
 4. VIDEO
 
