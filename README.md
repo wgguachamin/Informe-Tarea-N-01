@@ -73,4 +73,4 @@ Para expresar los números en notación científica  se recorre  lugares a la iz
 
 5. CONCLUSIONES
 
-6. BIBLIOGRAFÍA 
+6. BIBLIOGRAFÍA
