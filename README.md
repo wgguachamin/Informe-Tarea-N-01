@@ -40,6 +40,50 @@ CANTIDADES MAGNÉTICAS Y UNIDADES DERIVADAS
 
 ![image](https://user-images.githubusercontent.com/94008521/141207671-7e59e5f6-0970-4908-97e2-cdeda2785d34.png)
 
+A-2 NOTACIÓN CIÉNTIFICA 
+
+La notación científica proporciona un método conveniente para representar números grandes y pequeños y realizar cálculos que implican tales números. En notación científica, una cantidad se expresa como el producto de un número situado entre 1 y 10 y una potencia de diez.
+
+POTENCIAS DE DIEZ
+
+CÁLCULOS CON POTENCIAS DE DIEZ
+
+Adición. Los pasos para sumar números presentados en potencias de diez son los siguientes:
+1. Expresar los números a ser sumados en la misma potencia de diez.
+2. Sumar los números sin sus potencias de diez para obtener la adición.
+3. Recuperar la potencia de diez común, la cual es la potencia de diez de la adición.
+
+Sustracción Los pasos para restar números presentados en potencias de diez son los siguientes:
+1. Expresar los números a ser restados en la misma potencia de diez.
+2. Restar los números sin sus potencias de diez para obtener la diferencia.
+3. Restaurar la potencia común de diez, la cual es la potencia de diez de la diferencia.
+
+Multiplicación Los pasos para multiplicar números presentados en potencias de diez son los
+siguientes:
+1. Multiplicar los números directamente sin sus potencias de diez.
+2. Sumar las potencias de diez algebraicamente (los exponentes no tienen que ser los mismos).
+
+División Los pasos para dividir números presentados en potencias de diez son los siguientes:
+1. Dividir los números directamente sin sus potencias de diez.
+2. Restar la potencia de diez del denominador de la potencia de diez del numerador (las potencias no tienen que ser las mismas).
+
+A-3 NOTACIÓN DE INGENIERÍA Y PREFIJOS MÉTRICOS
+NOTACIÓN DE INGENIERÍA
+
+En notación de ingeniería un número puede tener de uno a tres dígitos a la izquierda del punto decimal y el exponente de potencia de diez debe ser un múltiplo de tres.
+
+PREFIJOS MÉTRICOS
+
+En notación de ingeniería, los prefijos métricos representan cada una de las potencias de diez más comúnmente utilizadas.
+
+A-4 CONVERSIONES DE UNIDADES MÉTRICAS
+
+Las siguientes reglas básicas son aplicables a conversiones de unidades métricas:
+1. Cuando se convierte una unidad grande en otra más pequeña, el punto decimal se mueve hacia la derecha.
+2. Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se mueve hacia la izquierda.
+3. Se determina el número de lugares que debe recorrerse el punto decimal encontrando la diferencia en las potencias de diez de las unidades a convertir.
+
+NOTA: Cuando se suman (o restan) cantidades con diferentes prefijos métricos, primero se convierte una de las cantidades al mismo prefijo que la otra.
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
