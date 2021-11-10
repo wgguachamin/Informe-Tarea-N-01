@@ -16,7 +16,11 @@ C. Establecer las formulas necesarias para el voltaje, la resistencia y la corri
 
 A. CANTIDADES Y UNIDADES
 
-A-1 UNIDADES DE MEDICIÓN
+A-1 UNIDADES DE MEDICIÓN 
+
+Esto se basa en el sistema SI, el mismo consta de 7 unidades fundamentales y 2 unidades complementarias:
+![image](https://user-images.githubusercontent.com/94008521/141195787-63b99def-7873-4929-8089-61f89ecb84b0.png)
+
 
 UNIDADES FUNDAMENTALES Y UNIDADES DERIVADAS
 
