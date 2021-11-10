@@ -55,6 +55,7 @@ La ventaja de la notación científica radica en que permite efectuar las operac
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 La ventaja de la notación científica radica en que permite efectuar las operaciones de adición, sustracción, multiplicación y división de números muy pequeños y muy grandes.
+
 Adición. Los pasos para sumar números presentados en potencias de diez son los siguientes:
 1. Expresar los números a ser sumados en la misma potencia de diez.
 2. Sumar los números sin sus potencias de diez para obtener la adición.
