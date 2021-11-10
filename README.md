@@ -34,6 +34,8 @@ Por otro lado en las cantidades eléctricas y unidades derivadas existen dos tip
 
 CANTIDADES ELÉCTRICAS Y UNIDADES DERIVADAS
 
+![image](https://user-images.githubusercontent.com/94008521/141199329-ecb91eed-bf85-4b3f-bd3f-ee4761470832.png)
+
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
