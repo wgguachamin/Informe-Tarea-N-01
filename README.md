@@ -61,6 +61,15 @@ Adición. Los pasos para sumar números presentados en potencias de diez son los
 2. Sumar los números sin sus potencias de diez para obtener la adición.
 3. Recuperar la potencia de diez común, la cual es la potencia de diez de la adición.
 
+Sustracción Los pasos para restar números presentados en potencias de diez son los siguientes:
+1. Expresar los números a ser restados en la misma potencia de diez.
+2. Restar los números sin sus potencias de diez para obtener la diferencia.
+3. Restaurar la potencia común de diez, la cual es la potencia de diez de la diferencia.
+
+Multiplicación Los pasos para multiplicar números presentados en potencias de diez son los siguientes:
+1. Multiplicar los números directamente sin sus potencias de diez.
+2. Sumar las potencias de diez algebraicamente (los exponentes no tienen que ser los mismos).
+
 
 
 4. VIDEO
