@@ -14,9 +14,9 @@ C. Establecer las formulas necesarias para el voltaje, la resistencia y la corri
 
 2. MARCO TEÓRICO
 
-1. CANTIDADES Y UNIDADES
+A. CANTIDADES Y UNIDADES
 
-1-1 UNIDADES DE MEDICIÓN
+A-1 UNIDADES DE MEDICIÓN
 
 UNIDADES FUNDAMENTALES Y UNIDADES DERIVADAS
 
