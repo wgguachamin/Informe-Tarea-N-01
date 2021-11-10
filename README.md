@@ -38,39 +38,27 @@ CANTIDADES ELÉCTRICAS Y UNIDADES DERIVADAS
 
 CANTIDADES MAGNÉTICAS Y UNIDADES DERIVADAS
 
-![image](https://user-images.githubusercontent.com/94008521/141202480-65c8419a-295c-486a-b90c-a356280b47cd.png)
 
-A-2 NOTACIÓN CIENTIFICA
 
-La notación científica proporciona un método conveniente para representar números grandes y pequeños y realizar cálculos que implican tales números. En notación científica, una cantidad se expresa como el producto de un número situado entre 1 y 10 y una potencia de diez. 
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-ALGUNAS POTENCIAS DE DIEZ POSITIVAS Y NEGATIVAS
+SECCIÓN 1–2 (Notación Científica)
 
-![image](https://user-images.githubusercontent.com/94008521/141205058-1edfae06-ce6b-493b-8ca1-86b4404405c4.png)
+1.	Exprese cada uno de los números siguientes en notación científica:
 
-CÁLCULOS CON POTENCIAS DE DIEZ
+	a) 3000 = 3×10^3
+  
+	b) 75,000 = 7.5×10^4
+  
+	c) 2,000,000= 2×10^6
 
-La ventaja de la notación científica radica en que permite efectuar las operaciones de adición, sustracción, multiplicación y división de números muy pequeños y muy grandes.
+Para expresar los números en notación científica  se recorre  lugares a la izquierda o derecha  según se requiera, y se multiplica por la potencia 10 elevada al número de espacios recorridos. 
 
-Adición. Los pasos para sumar números presentados en potencias de diez son los siguientes:
-1. Expresar los números a ser sumados en la misma potencia de diez.
-2. Sumar los números sin sus potencias de diez para obtener la adición.
-3. Recuperar la potencia de diez común, la cual es la potencia de diez de la adición.
+3.	Exprese cada uno de los números siguientes en notación científica:
 
-Sustracción Los pasos para restar números presentados en potencias de diez son los siguientes:
-1. Expresar los números a ser restados en la misma potencia de diez.
-2. Restar los números sin sus potencias de diez para obtener la diferencia.
-3. Restaurar la potencia común de diez, la cual es la potencia de diez de la diferencia.
 
-Multiplicación Los pasos para multiplicar números presentados en potencias de diez son los siguientes:
-1. Multiplicar los números directamente sin sus potencias de diez.
-2. Sumar las potencias de diez algebraicamente (los exponentes no tienen que ser los mismos).
 
-División Los pasos para dividir números presentados en potencias de diez son los siguientes:
-1. Dividir los números directamente sin sus potencias de diez.
-2. Restar la potencia de diez del denominador de la potencia de diez del numerador (las potencias no tienen que ser las mismas).
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMA
 
 4. VIDEO
 
