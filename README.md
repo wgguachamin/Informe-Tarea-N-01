@@ -48,8 +48,17 @@ ALGUNAS POTENCIAS DE DIEZ POSITIVAS Y NEGATIVAS
 
 ![image](https://user-images.githubusercontent.com/94008521/141205058-1edfae06-ce6b-493b-8ca1-86b4404405c4.png)
 
+CÁLCULOS CON POTENCIAS DE DIEZ
+
+La ventaja de la notación científica radica en que permite efectuar las operaciones de adición, sustracción, multiplicación y división de números muy pequeños y muy grandes.
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+La ventaja de la notación científica radica en que permite efectuar las operaciones de adición, sustracción, multiplicación y división de números muy pequeños y muy grandes.
+Adición. Los pasos para sumar números presentados en potencias de diez son los siguientes:
+1. Expresar los números a ser sumados en la misma potencia de diez.
+2. Sumar los números sin sus potencias de diez para obtener la adición.
+3. Recuperar la potencia de diez común, la cual es la potencia de diez de la adición.
 
 
 
