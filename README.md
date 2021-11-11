@@ -541,8 +541,106 @@ Primero sumamos los números y luego lo multiplicamos por la potencia común y s
 	      (560÷660)x10^(3-3)
 	      0.8484
 	      848.4x10^-3
-	 
+
 Primero escribimos división con numerador y denominador, luego dividimos los números y restamos las potencias. Finalmente expresamos el número en notación de ingeniería.
+
+21.	Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
+
+	a) 0.000345
+	
+	     345x10-6
+	     345 μA
+	     
+	b)  0.025
+	
+	     25x10^-3
+	     25 mA
+	     
+	c) 0.00000000129  
+	
+	     1.29x10^-9
+	     1.29 nA
+	
+Expresamos los números por medio de un prefijo métrico ya que estos números tienen la unidad de medida que es el amperio. Primero expresamos en una notación de ingeniería y luego, después cambiamos la potencia de 10 por los símbolos de medida en amperes según corresponda. 
+
+23.	Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+
+	a)3x10^-6 F
+	
+	    3 μF
+
+	b) 3.3×10^6 Ω
+	
+	    3.3 MΩ
+	  
+	c) 350×10^(-9)  A
+	    350 nA
+
+Para expresar las cantidades por medio de prefijos métricos identificamos el valor de las potencias a la 10 y reemplazamos con su respectivo símbolo.
+
+25.	Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10: 
+
+	a) 7.5 pA
+	
+	    7.5x10^-12 A
+	    
+	b) 3.3 GHz
+	
+	    3.3x10^9 Hz
+	
+	c) 280 nW
+
+	    280x10^-9 W
+	    
+Para expresar las cantidades en potencias de 10 por medio de prefijos métricos identificamos el símbolo de los prefijos métricos y reemplazamos con su respectivo valor de potencia.
+	    
+SECCIÓN 1–4 (Conversiones de unidades métricas) 
+
+27.	Realice las conversiones indicadas:
+
+	a) 5 mA a microamperes
+	
+	     5mA= 5x10^-3 A = 5000x10^-6 A = 5000 μA
+	     
+	b) 3200 μW a miliwatts
+	
+	     3200 μW = 3200x10^-6 W = 3.2x10^-3 W = 3.2x10^-3 mW
+
+	c) 5000 kV a megavolts
+	
+	     5000 kV = 5000x10^3 V = 5x10^6 V = 5MV
+	     
+	d) 10 MW a kilowatts
+	
+	     10 MW = 10x10^6 W = 10000x10^3 W = 10000 kW
+	
+Recorremos el punto decimal según tanto se requiera para llegar a determinada unidad métrica.
+
+29.	Sume las siguientes cantidades:
+
+	a) 50 mA+680 μA
+	
+	      50x10^-3 A + 680x10^-6 A
+	      50x10^-3 A + 0.680x10^-3 A
+	      50 mA + 0.680 mA
+	      50.68 mA
+
+
+	b) 120 kΩ+2.2 MΩ
+	
+	      120x10^3 Ω + 2.2x10^6 Ω
+	      0.120x10^6 Ω + 2.2x10^6 Ω
+	      0.120 MΩ + 2.2 MΩ
+	      2.32 MΩ
+	
+	c) 0.02 μF+3300 pF
+	
+	      0.02x10^-6 F + 3300x10^-12 F
+	      0.02x10^-6 F + 0.0033x10^-6 F
+	      0.02 μF + 0.0033 μF
+	      0.0233 μF
+	
+Primero escribimos las bases de acuerdo a sus potencias a la 10 correspondientes. Posterior, igualamos las potencias para ajustar la suma a cierta unidad métrica y finalmente sumamos las cantidades.
 
 4. VIDEO
 
