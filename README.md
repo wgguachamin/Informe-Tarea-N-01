@@ -548,4 +548,6 @@ Primero escribimos división con numerador y denominador, luego dividimos los n�
 
 5. CONCLUSIONES
 
+1) 
+
 6. BIBLIOGRAFÍA 
