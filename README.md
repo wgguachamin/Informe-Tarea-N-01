@@ -97,7 +97,7 @@ SECCIÓN 1–2 (Notación Científica)
   
 	c) 2,000,000= 2×10^6
 
-Para expresar los números en notación científica  se recorre  lugares a la izquierda o derecha  según se requiera, y se multiplica por la potencia 10 elevada al número de espacios recorridos. Si se recorren espacios a la izquierda se eleva la potencia con menos, si es a la derecha se eleva con más.
+Para expresar los números en notación científica  se recorre  lugares a la izquierda o derecha  según se requiera, y se multiplica por la potencia 10 elevada al número de espacios recorridos. Si se recorren espacios a la izquierda se eleva la potencia con más, si es a la derecha se eleva con menos.
 
 3.	Exprese cada uno de los números siguientes en notación científica: 
 
@@ -107,7 +107,7 @@ Para expresar los números en notación científica  se recorre  lugares a la iz
 	
 	c) 0,2x10^6 = 2x10^5
 	
-Para expresar los números en notación científica se recorre lugares a la izquierda o derecha y se multiplica por la potencia 10 elevada al número de espacios recorridos. Si se recorren espacios a la izquierda se eleva la potencia con menos, si es a la derecha se eleva con más.
+Para expresar los números en notación científica se recorre lugares a la izquierda o derecha y se multiplica por la potencia 10 elevada al número de espacios recorridos. Si se recorren espacios a la izquierda se eleva la potencia con más, si es a la derecha se eleva con menos.
 	
 5.	Exprese cada uno de los números siguientes en notación científica:
 
@@ -117,13 +117,125 @@ Para expresar los números en notación científica se recorre lugares a la izqu
 	
 	c)870x10^8 = 8.7x10^10
 	
-Para expresar los números en notación científica se recorre lugares a la izquierda o derecha y se multiplica por la potencia 10 elevada al número de espacios recorridos. Si se recorren espacios a la izquierda se eleva la potencia con menos, si es a la derecha se eleva con más.
+Para expresar los números en notación científica se recorre lugares a la izquierda o derecha y se multiplica por la potencia 10 elevada al número de espacios recorridos. Si se recorren espacios a la izquierda se eleva la potencia con más, si es a la derecha se eleva con menos.
 
-7.	Sume los números siguientes:
+7.	Exprese cada uno de los números siguientes como un número decimal regular:
 
+	a) 2.5x10^-6 = 0.0000025
+	
+	b) 5.0x10^2 = 500
+	
+	c) 3.9x10^-1 = 0.39
+	
+Para expresar los números como decimal regular en caso de estar elevado el número a la potencia negativa se recorre el número de lugares a la izquierda. En caso de la potencia estar elevada a un número positivo, se recorre los lugares después de la coma a la derecha.
 
+9.	Sume los números siguientes:
 
+	a) (9.2×10^6)+(3.4×10^7)
+	
+	     (9.2×10^6 )+(34×10^6 )
+	     (9.2+34)×10^6
+	      43.2×10^6
+	      4.32×10^7
 
+	b) (5×10^3 )+(8.5×10^(-1) )
+	
+	      (5×10^3)+(0.00085x10^3)
+	       5.00085×10^3
+
+	c) (5.6×10^(-8) )+(4.6×10^(-9) )
+	       
+	       (5.6x10^-8)+(0.46x10^-8)
+	       6.06x10^-8
+	
+Para sumar los números expresados en notación científica en primer lugar expresamos ambos números en la misma potencia de diez. Luego sumamos los números que le anteceden a la potencia y finalmente se recupera la potencia común de diez.
+
+11.	Realice las siguientes multiplicaciones:
+
+	a) (5×10^3)(4×10^5)
+	
+	     (5×4)x10^(3+5)
+	     20x10^8
+	     2.0x10^9
+
+SECCIÓN 1–3 (Notación de ingeniería y prefijos métricos)
+
+13.	Exprese cada uno de los números siguientes en notación de ingeniería
+
+	a) 89,000
+	
+	    89x10^3
+	    
+	b) 450,000
+	
+	    450x10^3
+	    
+	c) 12,040,000,000,000
+	
+	    12.04x10^12
+
+Para expresar los números en notación de ingeniería se debe tener en cuenta que el número puede tener de uno a tres dígitos a la izquierda del punto decimal y la potencia debemos dejarla elevada a un múltiplo de tres.
+	
+15.	Exprese cada número en notación de ingeniería:
+
+	a) 0.000345
+	
+	    345x10^-6
+
+	b) 0.025
+	
+	    25x10^-3
+	    
+	c) 0.00000000129
+	
+	    1.29x10^-9
+
+Para expresar los números en notación de ingeniería se debe tener en cuenta que el número puede tener de uno a tres dígitos a la izquierda del punto decimal y la potencia debemos dejarla elevada a un múltiplo de tres.
+
+17.	Sume los números siguientes y exprese cada resultado en notación de ingeniería:
+
+	a) (2.5×10^(-3) )+(4.6×10^(-3) )
+	      
+	      (2.5+4.6)×10^(-3)
+	      7.1×10^(-3)
+
+	b) (68×10^6 )+(33×10^6 )
+	
+	       (68+33)×10^6
+	       101×10^6
+	       
+	c) (1.25×10^6 )+(250×10^3 )
+	
+	       (1.25x10^6)+(0.25x10^6)
+	       (1.25+0.25)x10^6
+	       1.5x10^6
+	       
+Primero sumamos los números y luego lo multiplicamos por la potencia común y se deja en la notación de ingeniería.
+
+19.	Divida los números siguientes y exprese cada resultado en notación de ingeniería:
+
+	a) 50÷(2.2×10^3 )
+	
+	      (5x10^1)/(2.2×10^3)
+	      (5÷2.2)x10^(1-3)
+	      2.2727x10^-2
+	      22.7x10^-3
+		
+	b) (5×10^3 )÷(25×10^(-6) )
+	
+	      (5×10^3 )/(25×10^(-6) )
+	      (5÷25)x10^(3-(-6))
+	      0.2x10^9
+	      200x10^6
+	      
+	c) (560×10^3 )÷(660×10^3 )
+	
+	      (560×10^3 )/(660×10^3 )
+	      (560÷660)x10^(3-3)
+	      0.8484
+	      848.4x10^-3
+	 
+Primero escribimos división con numerador y denominador, luego dividimos los números y restamos las potencias. Finalmente expresamos el número en notación de ingeniería.
 
 4. VIDEO
 
