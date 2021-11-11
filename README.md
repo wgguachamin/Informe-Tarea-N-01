@@ -759,6 +759,25 @@ SECCIÓN 2–6 (El circuito eléctrico)
 ![image](https://user-images.githubusercontent.com/93960809/141248600-4c2d30d1-07b4-41b2-9ea3-6fba0bec5d2e.png)
 Figura 2-69(a)
 
+![image](https://user-images.githubusercontent.com/93415377/141321578-fc9c0276-d374-43bf-90f9-4410e329c11e.png)
+
+
+33.	En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
+![image](https://user-images.githubusercontent.com/93415377/141321373-558b3e86-4da9-416f-93b9-fea27255afe2.png)
+
+
+35.	Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue: 
+VS1 conectada a R1 y VS2 conectada a R2 
+o VS1 conectada a R2 y VS2 conectada a R1
+
+
+SECCIÓN 2–7 Mediciones de circuito básicas
+37.	Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
+![image](https://user-images.githubusercontent.com/93415377/141322635-5f6f2ccf-3f73-4c71-902d-e4d8d0f32c68.png)  Figura 2-72
+Resolucion
+![image](https://user-images.githubusercontent.com/93415377/141331295-0d414119-4fc2-458a-b761-00c32ab72f32.png)
+
+
 
 
 5. VIDEO
