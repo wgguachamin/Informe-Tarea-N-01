@@ -642,7 +642,126 @@ Recorremos el punto decimal según tanto se requiera para llegar a determinada u
 	
 Primero escribimos las bases de acuerdo a sus potencias a la 10 correspondientes. Posterior, igualamos las potencias para ajustar la suma a cierta unidad métrica y finalmente sumamos las cantidades.
 
-4. VIDEO
+SECCIÓN 2–2 (Carga eléctrica)
+
+1.	¿Cuál es la carga en coulomb del núcleo de un átomo de cobre? 
+
+![image](https://user-images.githubusercontent.com/93960809/141242823-990be6ce-98a0-4660-91d3-c69ea6fc0d9c.png)
+
+Para este ejercicio utilizamos la fórmula que nos permite determinar la carga a partir del número de electrones de un átomo de cobre dividido para 6.25x10^18 electrones sobre carga.
+
+3.	¿Cuántos coulomb de carga poseen (50×10)^31 electrones?
+
+![image](https://user-images.githubusercontent.com/93960809/141242989-1c0ba996-a56f-40e2-aba4-05d547b7bb3e.png)
+
+Para este ejercicio utilizamos la fórmula que nos permite determinar la carga a partir del número de electrones dividido para 6.25x10^18 electrones sobre carga.
+
+5.	Determine el voltaje en cada uno de los siguientes casos:
+
+	a) 10 J/C
+	
+	     V=10[v]
+	
+	b) 5J / 2C
+	
+	      V=2.5[v]
+
+	c)100J / 25C
+	
+	      V=4[v]
+	      
+Para determinar el voltaje aplicamos la fórmula que nos dice que voltaje es igual a energía(J) sobre carga(C).
+
+7.	¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+
+![image](https://user-images.githubusercontent.com/93960809/141244360-6fa59df1-54ac-456d-8c7b-b38db0af5b5a.png)
+
+Para determinar el voltaje de una batería aplicamos la fórmula que nos dice que voltaje es igual a energía(J) sobre carga(C).
+
+9.	Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+
+![image](https://user-images.githubusercontent.com/93960809/141244609-75878558-2ec8-4728-8c84-870682e2ab9d.png)
+
+Para determinar el voltaje a través del resistor, primero calculamos la carga mediante la fórmula de la corriente, y luego aplicamos el valor obtenido de la misma dentro de la fórmula de voltaje.
+
+11.	Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes? 
+
+![image](https://user-images.githubusercontent.com/93960809/141244885-93b73ee1-04c0-43a0-9f65-5011a612020d.png)
+
+Para determinar la corriente usamos la fórmula que nos dice que corriente(A) es igual a la carga(C) dividido para el tiempo(s).
+
+13.	¿Cuántos coulombs pasan por un punto en 0,1s cuando la corriente es de 1,5 A?
+
+![image](https://user-images.githubusercontent.com/93960809/141245108-989bdae2-acce-4db1-ad5b-d54c82459a73.png)
+
+Para calcular este ejercicio usamos la fórmula de la corriente y despejamos la variable de carga(C) con el fin de encontrar los coulombs.
+
+15.	Determine la conductancia para cada uno de los siguientes valores de resistencia:
+
+![image](https://user-images.githubusercontent.com/93960809/141245932-fb80949d-c9fd-40ce-852b-e9446a2a3961.png)
+
+![image](https://user-images.githubusercontent.com/93960809/141245953-5b3483d2-5a11-4dc3-a7aa-721fe444aed5.png)
+
+![image](https://user-images.githubusercontent.com/93960809/141246002-2d51ad6b-30e5-44be-968b-12aad43a3439.png)
+
+Para calcular estos ejercicios se sabe que conductancia que se mide en siemens es inversamente proporcional a la resistencia, por tanto los calculos parten de la fórmula G = 1/R.
+
+SECCIÓN 2–4 (Fuentes de voltaje y de corriente)
+
+17.	Enliste cuatro fuentes de voltaje comunes.
+
+•	Fuentes de voltaje de CD
+
+•	Baterías
+
+•	Celda solar
+
+•	Generador 
+	 
+19.	¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+
+Una fuente electrónica de potencia convierte energía comercial (ca-corriente alterna de la compañía de electricidad) en cd-corriente directa regulada con varios niveles de voltaje.
+
+SECCIÓN 2–5 (Resistores)
+
+21.	Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas.
+
+![image](https://user-images.githubusercontent.com/93960809/141247141-839ba9c2-5076-460d-8983-92cd9463aec1.png)
+
+Para determinar el valor de resistencia nos fijamos en los colores de las bandas que poseen las resistencias. La primera y segunda banda va a proporcionar un dígito cada una, la tercera banda indicará el número de ceros; mientras que la última banda determinará el porcentaje de tolerancia de la resistencia.
+
+23.	Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia
+
+![image](https://user-images.githubusercontent.com/93960809/141247557-eaa10992-103b-41de-976a-2fee87cf4301.png)
+
+Con lo valores de resistencias ya establecidos, se procede a identificar qué color corresponde a cada número digitado.
+
+25.	Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento
+
+![image](https://user-images.githubusercontent.com/93960809/141247645-07a8b5cd-0a39-4222-816e-1a32e2c4fc6e.png)
+
+Con lo valores de resistencias ya establecidos y una tolerancia del 5%, se procede a identificar qué color corresponde a cada número digitado.
+
+27.	Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+
+![image](https://user-images.githubusercontent.com/93960809/141248091-2306a751-f2ee-4577-b094-d2ac833d7e6b.png)
+
+Con lo valores de resistencias ya establecidos y una tolerancia del 1%, se procede a identificar qué color corresponde a cada número digitado.
+
+29.	¿Cuál es la resistencia indicada por 4K7?
+
+	R=4.7 kΩ
+
+SECCIÓN 2–6 (El circuito eléctrico)
+
+31.	Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
+
+![image](https://user-images.githubusercontent.com/93960809/141248600-4c2d30d1-07b4-41b2-9ea3-6fba0bec5d2e.png)
+Figura 2-69(a)
+
+
+
+5. VIDEO
 
 5. CONCLUSIONES
 
