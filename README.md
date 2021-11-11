@@ -791,7 +791,16 @@ Resolucion
 
 Figura 2-73
 
-![image](https://user-images.githubusercontent.com/93415377/141339854-13f7d499-58a7-4333-bf6a-db631ba4a30b.png)
+
+	a) Cuando el interruptor está en la posición 1 la corriente se dezplaza en dirección a la resistencia 2, ya que este es el único camino al que la corriente se puede dirigir, por tanto : 
+	
+	     V1=0
+	     V2=Vs
+	     
+	b) Cuando el interruptor está en la posición 2 la corriente se dezplaza en dirección a la resistencia 1, ya que este es el único camino al que la corriente se puede dirigir, por tanto: 
+	     
+	     V2=0
+	     V1=Vs
 
 
 41.	En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
