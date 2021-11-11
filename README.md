@@ -646,19 +646,26 @@ Primero escribimos las bases de acuerdo a sus potencias a la 10 correspondientes
 
 5. CONCLUSIONES
 
-1.	Voltaje es el trabajo por unidad de carga eléctrica que ejerce sobre una partícula un campo eléctrico, la corriente se define como la velocidad que tiene el flujo de la carga y por último la resistencia se la conoce como la oposición al paso de la corriente.
-2.	Las cantidades y medidas más utilizadas en circuitos eléctricos son: Carga (coulomb); Energía (joule); Frecuencia (hertz); Potencia (watt); Resistencia (ohm) y por último Voltaje (volt).  
-3.	Entre las principales conversiones que envuelven a circuitos eléctricos se hace referencia a las involucradas con el voltaje, la corriente y la resistencia; es estos cambios son importantes los siguientes prefijos: mega, kilo, mili y micro.
-4.	 Las fórmulas para calcular voltaje, corriente y resistencia son: (V = energías en joules/carga en coulombs), (I = carga en coulombs/tiempo en segundos) y (R = voltaje en volts/corriente en amperes)
+1) Voltaje es el trabajo por unidad de carga eléctrica que ejerce sobre una partícula un campo eléctrico, la corriente se define como la velocidad que tiene el flujo de la carga y por último la resistencia se la conoce como la oposición al paso de la corriente.
+2) Las cantidades y medidas más utilizadas en circuitos eléctricos son: Carga (coulomb); Energía (joule); Frecuencia (hertz); Potencia (watt); Resistencia (ohm) y por último Voltaje (volt).  
+3) Entre las principales conversiones que envuelven a circuitos eléctricos se hace referencia a las involucradas con el voltaje, la corriente y la resistencia; es estos cambios son importantes los siguientes prefijos: mega, kilo, mili y micro.
+4) Las fórmulas para calcular voltaje, corriente y resistencia son: (V = energías en joules/carga en coulombs), (I = carga en coulombs/tiempo en segundos) y (R = voltaje en volts/corriente en amperes)
 
 6. BIBLIOGRAFÍA 
 
 •	Digital Multimeter Principles. (20 de Junio de 2021). Obtenido de https://www.redeweb.com/actualidad/que-es-la-corriente/
+
 •	El BIPM y la Convención del Metro. (2006). Sistema internacional de medidas. Madrid: Centro español de metodología.
+
 •	Electrónica. (08 de Enero de 2021). Obtenido de https://www.redeweb.com/actualidad/resistencia-electrica/
+
 •	Floyd, T. (2007). Principios de circuitos eléctricos. Monterrey: Pearson.
+
 •	García, J. (27 de Septiembre de 2014). Obtenido de http://www.asifunciona.com/electrotecnia/ke_resistencia/ke_resistencia_1.htm
+
 •	Herramientas y control. (09 de Junio de 2015). Obtenido de https://www.demaquinasyherramientas.com/herramientas-de-medicion/introduccion-al-voltimetro
+
 •	Moreno, L. (11 de Abril de 2016). Obtenido de https://ingenieriaelectronica.org/voltimetro-analogico-y-digital-caracteristicas-y-definicion/
+
 •	Paguayo, M. (18 de Junio de 2019). Obtenido de https://cursos.mcielectronics.cl/2019/06/18/voltaje-corriente-resistencia-y-ley-de-ohm/
 
