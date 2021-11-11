@@ -772,6 +772,7 @@ o VS1 conectada a R2 y VS2 conectada a R1
 
 
 SECCIÓN 2–7 Mediciones de circuito básicas
+
 37.	Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
 
 
