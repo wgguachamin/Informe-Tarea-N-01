@@ -764,9 +764,10 @@ Figura 2-69(a)
 
 33.	En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
 ![image](https://user-images.githubusercontent.com/93415377/141321373-558b3e86-4da9-416f-93b9-fea27255afe2.png)
+ 	
 
-
-35.	Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue: 
+35.	Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
+ 
 VS1 conectada a R1 y VS2 conectada a R2 
 o VS1 conectada a R2 y VS2 conectada a R1
 
@@ -793,7 +794,28 @@ Figura 2-73
 ![image](https://user-images.githubusercontent.com/93415377/141339854-13f7d499-58a7-4333-bf6a-db631ba4a30b.png)
 
 
+41.	En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
 
+
+
+
+43.	¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+
+
+
+45.	Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
+
+	a) manecilla en 2, ajuste de intervalo en 10
+	
+	
+	b) manecilla en 15, ajuste de intervalo en 100,000
+	
+	c) manecilla en 45, ajuste de intervalo en 100
+	
+	
+47.	Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
+
+(a) I1 (b) V1 (c) R1
 
 5. VIDEO
 
