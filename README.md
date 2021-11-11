@@ -783,9 +783,21 @@ Resolucion
 ![image](https://user-images.githubusercontent.com/93415377/141331295-0d414119-4fc2-458a-b761-00c32ab72f32.png)
 
 
+41.	 En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
+
+
+![image](https://user-images.githubusercontent.com/93415377/141339802-a3a3485d-51ae-49ab-af80-96988693822d.png)
+
+Figura 2-73
+
+![image](https://user-images.githubusercontent.com/93415377/141339854-13f7d499-58a7-4333-bf6a-db631ba4a30b.png)
+
+
 
 
 5. VIDEO
+
+https://www.youtube.com/watch?v=JFnKwiJbRLE
 
 5. CONCLUSIONES
 
