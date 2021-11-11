@@ -770,6 +770,8 @@ Figura 2-69(a)
 VS1 conectada a R1 y VS2 conectada a R2 
 o VS1 conectada a R2 y VS2 conectada a R1
 
+![image](https://user-images.githubusercontent.com/93960809/141338436-6b46d4ef-0a0b-4600-817b-7f15fc38acdf.png)
+
 
 SECCIÓN 2–7 Mediciones de circuito básicas
 
