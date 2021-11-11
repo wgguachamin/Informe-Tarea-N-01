@@ -85,6 +85,313 @@ Las siguientes reglas básicas son aplicables a conversiones de unidades métric
 
 NOTA: Cuando se suman (o restan) cantidades con diferentes prefijos métricos, primero se convierte una de las cantidades al mismo prefijo que la otra.
 
+B. VOLTAJE, CORRIENTE Y RESISTENCIA
+
+B-1 ESTRUCTURA ATÓMICA
+
+Un átomo es la partícula más pequeña de un elemento que conserva las características de dicho elemento. El núcleo se compone de partículas cargadas positivamente y llamadas protones, así como de partículas no cargadas que se denominan neutrones. Las partículas básicas de carga negativa se llaman electrones.
+
+![image](https://user-images.githubusercontent.com/94008521/141224146-c63bdc59-baa2-42dd-a114-ec31fcf84c6e.png)
+
+NUMERO ATÓMICO
+
+El número atómico es igual al número de protones presentes en el núcleo. Por ejemplo, el número atómico del hidrógeno es 1 y el del helio es 2. En su estado normal (o neutro), todos los átomos de un elemento dado tienen el mismo número de electrones y de protones.
+
+CAPAS, ORBITAS Y NIVELES DE ENERGÍA
+
+Dentro del átomo, cada órbita corresponde a un nivel de energía diferente conocido como capa. Las capas se designan con 1, 2, 3, y así sucesivamente, siendo la capa 1 la más cercana al núcleo. Las líneas espectrales del hidrógeno muestran que los electrones sólo pueden absorber o emitir una cantidad de energía específica que representa la diferencia exacta entre los niveles de energía.
+
+![image](https://user-images.githubusercontent.com/94008521/141224175-55394dde-7eae-4159-aba9-3bb94179dd18.png)
+
+Las transiciones entre los niveles de energía explican los diversos fenómenos que se presentan en la electrónica, tales como el color de la luz emitida por un diodo emisor de luz. Cuando un átomo forma parte de un gran grupo, como en un cristal, los niveles de energía discretos se ensanchan hasta formar bandas de energía, lo cual constituye una importante idea en la electrónica de estado sólido. Las bandas también están diferenciadas entre conductores, semiconductores y aislantes.
+
+ELECTRONCES DE VALENCIA
+
+Los electrones que se localizan en órbitas alejadas del núcleo están dotados de más energía y se encuentran menos estrechamente ligados al átomo que aquellos cercanos al núcleo. Electrones con los niveles de energía más altos existen en la capa más externa de un átomo y su ligazón a éste es relativamente holgada. Esta capa más alejada se conoce como capa de valencia y los electrones presentes en ella se llaman electrones de valencia.
+
+NIVELES DE ENERGÍA Y ENERGÍA DE IONIZACIÓN
+
+Si un electrón absorbe un fotón que posea energía suficiente, escapa del átomo y se convierte en un electrón libre. En todo momento que un átomo o grupo de átomos permanece con una carga neta se le conoce como ion.
+
+CATEGORÍAS DE MATERIALES
+
+-	CONDUCTORES: son aquellos que permiten el paso de la corriente. Tienen un gran número de electrones libres y se caracterizan por poseer de uno a tres electrones de valencia en su estructura.
+-	SEMICONDUCTORES: se clasifican por debajo de los conductores, en cuanto a su capacidad de transportar corriente, porque tienen menos electrones libres que los conductores. Los semiconductores tienen cuatro electrones de valencia en sus estructuras atómicas, por ejemplo: silicio y germanio.
+-	AISLANTES: son conductores deficientes de la corriente eléctrica. De hecho, los aislantes se utilizan para evitar la corriente donde no es deseada, tienen muy pocos electrones libres.
+
+B-2 CARGA ELÉCTRICA
+
+La carga de un electrón y la de un protón son iguales en magnitud. La carga eléctrica, es una propiedad eléctrica de la materia que existe en virtud de exceso o deficiencia de electrones, se simbolizada mediante Q.
+
+![image](https://user-images.githubusercontent.com/94008521/141224233-658541c9-d7c7-4ea8-80c7-94927b0e4ee4.png)
+
+Atracción y repulsión de cargas eléctricas
+
+![image](https://user-images.githubusercontent.com/94008521/141224251-1c8d2247-e599-4c9a-975c-920cec23f87c.png)
+
+COULOMB: LA UNIDAD DE CARGA
+
+La carga eléctrica (Q) se mide en coulombs, simbolizada mediante C. Un coulomb es la carga total poseída por ![image](https://user-images.githubusercontent.com/94008521/141224286-ade57e84-bf3c-4913-b242-8c5546aa7fe0.png)electrones.
+
+![image](https://user-images.githubusercontent.com/94008521/141224326-3623059b-d8ce-4d9a-8d7a-cd8735b8c4d4.png)
+
+CARGA POSITIVA Y CARGA NEGATIVA
+
+Considere un átomo neutro, es decir, uno que tiene el mismo número de electrones y protones y, por tanto, no tiene carga neta. Cuando un electrón de valencia es arrancado del átomo por la aplicación de energía, el átomo se queda con una carga positiva neta (más protones que electrones) y se transforma en un ion positivo. Si un átomo adquiere un electrón extra en su capa externa, tiene una carga negativa neta y se transforma en un ion negativo.
+
+B-3 VOLTAJE, CORRIENTE Y RESISTENCIA
+
+VOLTAJE
+
+La diferencia en la energía potencial por carga es la diferencia de potencial o voltaje. En circuitos eléctricos, el voltaje es la fuerza propulsora y es lo que establece la corriente. El voltaje, simbolizado mediante V, se define como energía o trabajo por unidad de carga.
+
+![image](https://user-images.githubusercontent.com/94008521/141224364-2488e9dd-7fde-443a-92f3-3fe936db7db4.png)
+
+La unidad de voltaje es el voltio, simbolizada mediante V. Un volt es la diferencia de potencial (voltaje) entre dos puntos cuando se utiliza un joule de energía para mover un coulomb de carga de un punto a otro
+
+CORRIENTE
+
+El movimiento de estos electrones libres del extremo negativo del material al extremo positivo es la corriente eléctrica, simbolizada mediante I. La corriente eléctrica es la velocidad que lleva el flujo de la carga. En un material conductor, el número de electrones (cantidad de carga) que fluyen más allá de cierto punto en una unidad de tiempo determinan la corriente.
+
+![image](https://user-images.githubusercontent.com/94008521/141224560-aa26a618-1fb8-4eea-85ce-d8fca3c904fb.png)
+
+Un ampere (1 A) es la cantidad de corriente que existe cuando cierto número de electrones, cuya carga total es de un coulomb (1 C), pasa por un área de sección transversal dada en un segundo (1 s).
+
+RESISTENCIA
+
+La resistencia es la oposición a la corriente. La resistencia se expresa en ohms, simbolizada mediante la letra griega omega (Ω). Existe un ohm (1 Ω) de resistencia si hay un ampere (1 A) de corriente en un material cuando se aplica un volt (1 V) al material.
+
+SIMBOLO PARA LA RESISTENCIA
+
+![image](https://user-images.githubusercontent.com/94008521/141224579-5b7037f3-3a1d-4a07-8c35-f2801f1b84b4.png)
+
+Conductancia: El recíproco de la resistencia es la conductancia, simbolizada G. La conductancia es una medida de la facilidad con que se establece la corriente. La fórmula es
+
+![image](https://user-images.githubusercontent.com/94008521/141224597-d3c7a0ca-9846-4bdc-a4d7-c73eb78104ad.png)
+
+B-4 FUENTES DE VOLTAJE Y DE CORRIENTE
+
+LA FUENTE DE VOLTAJE
+
+Una fuente de voltaje ideal puede proporcionar un voltaje constante para cualquier corriente requerida por un circuito. Las fuentes de voltaje pueden ser de cd o de ca:
+
+![image](https://user-images.githubusercontent.com/94008521/141224620-da6928d0-6bea-498a-a441-f63abcf8ecdb.png)
+
+Una gráfica que muestra el voltaje contra la corriente para una fuente ideal de voltaje de cd recibe el nombre de característica VI.
+
+![image](https://user-images.githubusercontent.com/94008521/141224635-1dccbbe6-ee5f-4b66-89fd-9c8c07ca8e70.png)
+
+TIPOS DE FUENTES DE VOLTAJE DE CD
+
+Baterías: Una batería es un tipo de fuente de voltaje que convierte energía química en energía eléctrica. En las baterías el electrodo positivo tiene deficiencia de electrones debido a una reacción química, el electrodo negativo tiene electrones en demasía debido a una reacción química, el electrolito proporciona un mecanismo para que fluya la carga entre los electrodos positivo y negativo, y el separador aísla eléctricamente los electrodos positivo y negativo.
+
+![image](https://user-images.githubusercontent.com/94008521/141224654-8de5cab9-9afc-4244-b94f-8906fb35920c.png)
+
+Las baterías se componen, por lo general, de múltiples celdas eléctricamente conectadas entre sí en su interior. La forma en que se conectan las celdas y su tipo determinan el voltaje y la capacidad de la batería
+
+![image](https://user-images.githubusercontent.com/94008521/141224722-ec6d0cab-1a36-4099-a35b-f288faab617b.png)
+
+Las baterías se dividen en dos clases principales: primaria y secundaria. Las baterías primarias se utilizan una vez y luego se desechan porque sus reacciones químicas son irreversibles; las baterías secundarias pueden ser recargadas y reutilizadas muchas veces ya que se caracterizan por reacciones químicas reversibles.
+
+Celdas solares: La operación de las celdas solares se basa en el efecto fotovoltaico, que es el proceso mediante el cual la energía luminosa se convierte directamente en energía eléctrica.
+
+![image](https://user-images.githubusercontent.com/94008521/141224742-dcb38099-4807-4f20-9d34-a35cf48a1c8f.png)
+
+Generador: conversión de la energía mecánica en energía eléctrica por medio de un principio llamado inducción electromagnética.
+
+La fuente de potencia electrónica: convierten el voltaje de ca de una toma de corriente de pared en voltaje constante de cd que está disponible a través de dos terminales.
+
+Termopares: es una fuente de voltaje tipo termoeléctrica utilizada comúnmente para detectar temperatura. Un termopar se forma por la unión de dos metales disimilares y su operación se basa en el efecto Seebeck.
+
+Sensores piezoeléctricos: actúan como fuentes de voltaje y están basados en el efecto piezoeléctrico, en el cual se genera voltaje cuando un material piezoeléctrico es deformado mecánicamente por una fuerza externa.
+
+LA FUENTE DE CORRIENTE
+
+La fuente de corriente ideal: puede proporcionar una corriente constante para cualquier carga. Al igual que en el caso de una fuente de voltaje, la fuente de corriente ideal no existe, pero puede ser aproximada en la práctica. 
+
+![image](https://user-images.githubusercontent.com/94008521/141224756-ea32df72-65b4-486a-8e73-d5e3c00ddbfb.png)
+
+Fuentes de corriente reales: se les considera como fuentes de voltaje porque son la fuente más común que se encuentra en el laboratorio. Sin embargo, también las fuentes de corriente pueden ser consideradas como un tipo de fuente de potencia.
+
+![image](https://user-images.githubusercontent.com/94008521/141224782-316bea6a-1969-436d-9c08-897f118596a4.png)
+
+Una aplicación común de una fuente de corriente constante se encuentra en los cargadores de batería de corriente constante.
+
+![image](https://user-images.githubusercontent.com/94008521/141224796-4c604ac9-72cc-4b8e-a83b-0ac6e7620f16.png)
+
+B-5 RESISTORES
+
+Resistores fijos: están disponibles con una gran selección de valores de resistencia establecidos durante su fabricación y que no son fáciles de cambiar. Se construyen utilizando diversos métodos y materiales. Es el de composición de carbón, el cual está hecho con una mezcla de carbón finamente pulverizado, un relleno aislante, y un aglutinante de resina. Tipos de resistencias: 
+
+-	El “chip” resistor es otro tipo de resistor fijo y se encuentra en la categoría de componentes de tecnología de montaje superficial (SMT, por sus siglas en inglés). Tiene la ventaja de un tamaño muy pequeño para ensambles compactos.
+-	Incluyen película de carbón, película metálica, y devanado de alambre. En los resistores de película, se deposita uniformemente una película resistiva (película de carbón) o de cromo níquel (película metálica).
+
+CODIGOS DE COLOR PARA RESISTORES
+
+Los resistores fijos con tolerancias de valor del 5 o el 10% se codifican mediante cuatro bandas de color para indicar el valor de resistencia y la tolerancia. 
+
+![image](https://user-images.githubusercontent.com/94008521/141224849-6618b56d-9533-4d42-a352-62a51daf8d30.png)
+
+El código de colores se lee como sigue:
+
+1. Inicie con la banda más cercana a un extremo del resistor. La primera banda es el primer
+dígito del valor de resistencia.
+
+![image](https://user-images.githubusercontent.com/94008521/141224870-5f4006b1-355d-4a2d-afdb-537515d26f62.png)
+
+2. La segunda banda es el segundo dígito del valor de resistencia.
+3. La tercera banda es el número de ceros que van después del segundo dígito, o el multiplicador.
+4. La cuarta banda indica la tolerancia en porcentaje y, por lo general, es de color oro o plata.
+
+Código de colores de cinco bandas Ciertos resistores de precisión con tolerancias del 2%, 1% o menos se codifican, en general, mediante cinco bandas de colores. 
+
+![image](https://user-images.githubusercontent.com/94008521/141224888-a9f28830-ee6c-4853-b781-47efe463b442.png)
+
+![image](https://user-images.githubusercontent.com/94008521/141224895-fe1ff6b8-1293-4d39-b7a1-e7fd6910850d.png)
+
+Resistores variables: los resistores variables están diseñados de modo que sus valores de resistencia sean fáciles de cambiar mediante un ajuste manual o automático. Dos usos básicos de los resistores variables son dividir el voltaje y controlar la corriente. El resistor variable utilizado para dividir voltaje se llama potenciómetro. El resistor variable empleado para controlar corriente se denomina reóstato.
+
+![image](https://user-images.githubusercontent.com/94008521/141224913-2466c2c5-acc8-4d5c-b81e-464120024d1e.png)
+
+Dos tipos de resistores automáticamente variables: Un termistor es un tipo de resistor variable sensible a la temperatura. Cuando su coeficiente de temperatura es negativo, la resistencia cambia inversamente con la temperatura. Cuando su coeficiente es positivo, la resistencia cambia directamente con la temperatura. La resistencia de una celda fotoconductora cambia con un cambio de la intensidad luminosa. Esta celda también tiene un coeficiente de temperatura negativo.
+
+![image](https://user-images.githubusercontent.com/94008521/141224933-aaabbaa1-1b18-4651-9b13-a53d612c3f93.png)
+
+B-6 EL CIRCUITO ELÉCTRICO
+
+Dirección de la corriente: La dirección del flujo de electrones, preferida por muchos en los campos de la tecnología eléctrica y electrónica, supone para propósitos de análisis que la corriente sale de la terminal negativa de una fuente de voltaje, a través del circuito, y hacia la terminal positiva de la fuente. La dirección convencional de la corriente supone, también para propósitos de análisis, que la corriente sale de la terminal positiva de una fuente de voltaje, a través del circuito, y hacia la terminal negativa de la fuente.
+
+EL CIRCUITO BÁSICO
+
+Un circuito se compone de una fuente de voltaje, una carga, y una trayectoria para la corriente que haya entre la fuente y la carga.
+
+![image](https://user-images.githubusercontent.com/94008521/141224949-b6d861e7-ad0e-4e9a-bf40-560310764b53.png)
+
+El diagrama esquemático de un circuito eléctrico Un circuito eléctrico puede ser representado mediante un diagrama esquemático que utiliza símbolos estándar para identificar cada elemento. 
+
+![image](https://user-images.githubusercontent.com/94008521/141224971-85d39a5f-5ad5-442d-8ba1-aea9d643c2d9.png)
+
+PROTECCIÓN Y CONTROL DE LA CORRIENTE EN UN CIRCUITO
+
+Interruptores mecánicos: para controlar la apertura o el cierre de circuitos eléctricos, por lo general se utilizan interruptores. Por ejemplo, para encender o apagar una lámpara se utiliza un interruptor.
+
+![image](https://user-images.githubusercontent.com/94008521/141224989-5a44f53c-06a4-4f5e-9969-3ccb3ebbd985.png)
+
+![image](https://user-images.githubusercontent.com/94008521/141225003-8c5af117-21d5-4022-8da4-b37a7936eecc.png)
+
+SÍMBOLOS DE INTERRUPTOR
+
+![image](https://user-images.githubusercontent.com/94008521/141225016-17dcaebc-4ef3-487f-a74e-a992d43a821a.png)
+
+TIPOS DE INTERRUPTOR
+
+-	Vía única-doble polo. El interruptor DPST permite la apertura o el cierre de dos juegos de contactos.
+-	Doble vía-doble polo. El interruptor DPDT permite la conexión de un juego de contactos a uno u otro de otros dos juegos.
+-	Botón pulsador (PB) En el interruptor de botón normalmente abierto (NOPB). La conexión entre dos contactos se realiza cuando el botón es oprimido y se interrumpe cuando se suelta el botón.
+-	Rotatorio En un interruptor rotatorio, la conexión entre un contacto y cualquiera de varios otros contactos se realiza al girar una perilla.
+
+Interruptores de semiconductor: los transistores se utilizan ampliamente como interruptores en muchas aplicaciones. El transistor puede ser utilizado como el equivalente de un interruptor de vía y polo únicos. Se puede abrir o cerrar la trayectoria de un circuito controlando el estado del transistor.
+
+![image](https://user-images.githubusercontent.com/94008521/141225034-4b8fc695-5636-4b40-b04f-c16e41538ae2.png)
+
+Dispositivos de protección: se utilizan fusibles y cortacircuitos para crear deliberadamente un circuito abierto cuando la corriente excede una cantidad específica de amperes a causa de un funcionamiento defectuoso u otra condición anormal presente en un circuito. La diferencia básica entre un fusible y un cortacircuito radica en que, cuando un fusible se "funde", debe ser reemplazado; pero cuando un cortacircuito se abre, puede ser repuesto o volver a utilizar repetidamente.
+
+ALAMBRES
+
+Los alambres son la forma más común de material conductor utilizado. Estos alambres varían en diámetro y son ordenados con arreglo a números de calibre estándar, llamados tamaños AWG (de American Wire Gauge).	
+
+![image](https://user-images.githubusercontent.com/94008521/141225063-4e5a1400-b246-455c-b63b-91b1c3da86cd.png)
+
+![image](https://user-images.githubusercontent.com/94008521/141225074-6e156bb2-0d61-4f51-9c1d-0be0f89c5f81.png)
+
+Donde A es el área de sección transversal en mils circulares y d es el diámetro en mils.
+
+Resistencia de un alambre: aunque el alambre de cobre conduce electricidad extremadamente bien, sigue teniendo algo de resistencia, como todos los conductores. La resistencia de un alambre depende de tres características físicas: (a) tipo de material, (b) longitud del alambre, y (c) área de sección transversal. Además, la temperatura también puede afectar la resistencia.					 
+
+![image](https://user-images.githubusercontent.com/94008521/141225092-95f5d813-1722-484b-b060-bf063ff04a55.png)
+
+Esta fórmula muestra que la resistencia se incrementa con un aumento en la resistividad y la longitud, y que disminuye al aumentar su área de sección transversal. Para calcular la resistencia en ohmios, la longitud debe estar en pies, el área de sección transversal en mils circulares.
+
+TIERRA
+
+La tierra es el punto de referencia. El término tierra se originó a partir del hecho de que el conductor de un circuito normalmente se conectaba a una barra de metal de 8 pies de largo enterrada en el suelo. La tierra en tierra normalmente se conecta al chasis metálico de un aparato o a una caja metálica por seguridad.
+
+Otro tipo de tierra se denomina tierra de referencia. Los voltajes siempre se especifican con respecto a otro punto. Si dicho punto no se establece explícitamente, se entiende que es la tierra de referencia. Tierra de referencia define 0 V para el circuito. La tierra de referencia puede estar a un potencial completamente diferente de la tierra en tierra.
+
+El símbolo ilustrado en (a) representa o una tierra en tierra o una tierra de referencia, (b) muestra una tierra en chasis, y (c) es un símbolo de referencia alterno utilizado normalmente cuando hay más de una conexión (tal como una tierra analógica y digital en el mismo circuito).
+
+![image](https://user-images.githubusercontent.com/94008521/141225122-2d5fd08e-3573-431f-876f-218fbd0ea52a.png)
+
+B-7 MEDICIONES DE CIRCUITO BÁSICAS
+
+El instrumento utilizado para medir voltaje es un voltímetro, para medir corriente se usa un amperímetro y para la resistencia un ohmmetro. Estos tres instrumentos se combinan a menudo en un solo mecanismo llamado multímetro.
+
+SIMBOLO DE MEDIDORES
+
+Ejemplos de símbolos de medidor utilizados en este libro. Cada símbolo puede ser usado para representar ya sea un amperímetro (A), un voltímetro (V) o un ohmmetro (Ω).
+
+![image](https://user-images.githubusercontent.com/94008521/141225145-8bbcddb6-2b37-46e6-b794-2be570e1fefb.png)
+ 
+MEDICIÓN DE CORRIENTE
+
+![image](https://user-images.githubusercontent.com/94008521/141225177-8b7fa441-625f-4f55-94f4-95c19c027f84.png)
+
+MEDICIÓN DE VOLTAJE
+
+![image](https://user-images.githubusercontent.com/94008521/141225190-b13a14ca-7c87-41f3-b6e1-98eaeb2294d5.png)
+
+MEDICIÓN DE RESISTENCIA
+
+![image](https://user-images.githubusercontent.com/94008521/141225210-ddc6e535-72c1-4db9-954e-bffd07477d27.png)
+
+MULTÍMETROS DIGITALES
+
+Es un instrumento electrónico que combina medidores para efectuar la medición de voltaje, corriente y resistencia. Los multímetros digitales son el tipo de instrumento de medición electrónico más utilizado. En general, los multímetros digitales incluyen más funciones, mejor precisión, mayor facilidad de lectura, y mayor confiabilidad que muchos medidores analógicos.
+
+Funciones de un multímetro digital Las funciones básicas encontradas en la mayoría de los multímetros digitales incluyen lo siguiente:
+
+- Ohms.
+
+- Voltaje y corriente directos.
+
+- Voltaje y corriente alternos.
+
+Pantallas de visualización de multímetro digital: los multímetros digitales están disponibles con pantallas de cristal líquido (LCD, por sus siglas en inglés) o con pantallas provistas de un diodo emisor de luz (LED, por sus siglas en inglés).
+
+Resolución: la resolución de un multímetro digital es el incremento más pequeño de una cantidad que el medidor puede medir. Mientras más pequeño es el incremento, mejor es la resolución. Un factor que determina la resolución de un medidor es el número de dígitos que aparecen en pantalla.
+
+Precisión: la precisión es el grado al cual un valor medido representa el valor verdadero o aceptado de una cantidad. Su circuitería interna y la calibración determinan estrictamente la precisión de un multímetro digital.
+
+LECTURA DE MULTÍMETROS ANALÓGICOS
+
+Este multímetro tiene cuatro funciones seleccionables: volts de cd (DC VOLTS), miliamperes de cd (DC mA), volts de ca (AC VOLTS), y OHMS. La mayoría de los multímetros analógicos son similares al mostrado aquí.
+
+La escala de ohms: los ohms se leen en la escala superior del medidor. Esta escala no es lineal; es decir, los valores representados por cada división (grande o pequeña) varían conforme se recorre la escala.
+
+Las escalas AC-DC y DC mA: las escalas segunda, tercera y cuarta de arriba hacia abajo, marcadas “AC” y “DC”, se utilizan junto con las funciones DC VOLTS y AC VOLTS. La escala superior ac - dc termina en la marca de 300 y se usa con ajustes de intervalo, tales como 0.3, 3 y 300.
+
+B-8 SEGURIDAD ELÉCTRICA
+
+CHOQUE ELÉCTRICO
+
+La corriente que pasa a través del cuerpo, no el voltaje, es la causa del choque eléctrico. Desde luego, se requiere que un voltaje pase por una resistencia para producir corriente. Cuando un punto del cuerpo se pone en contacto con un voltaje y otro punto entra en contacto con un voltaje diferente o con tierra, tal como un chasis metálico, circulará corriente por el cuerpo de un punto al otro. La trayectoria que tome la corriente dependerá de los puntos por los cuales ocurra el voltaje.
+
+Efectos de la corriente en el cuerpo humano: la cantidad de corriente depende del voltaje y de la resistencia. El cuerpo humano tiene una resistencia que depende de muchos factores, los cuales incluyen la masa corporal, la humedad de la piel, y los puntos del cuerpo que entran en contacto con un potencial de voltaje.
+
+Resistencia corporal: la resistencia del cuerpo humano es típicamente de 10 a 50 k  y depende de los dos puntos entre los cuales se mida. La humedad de la piel también afecta la resistencia entre dos puntos.
+
+PRECAUCIONES DE SEGURIDAD
+
+-	Evite el contacto con cualquier fuente de voltaje. Corte la corriente antes de trabajar con partes de un circuito que deban ser tocadas.
+-	No trabaje cuando esté cansado o tomando medicamentos que le produzcan somnolencia.
+-	Quítese anillos, relojes y otra joyería metálica cuando trabaje en circuitos.
+-	No trabaje en un equipo hasta que conozca los procedimientos apropiados y esté consciente de peligros potenciales.
+-	Conserve sus herramientas en condiciones apropiadas. Asegúrese de que en los mangos de
+-	herramientas metálicas el aislante esté en buenas condiciones.
+-	Maneje las herramientas apropiadamente y mantenga limpia y ordenada el área de trabajo.
+-	Use gafas de seguridad cuando sea apropiado, en particular cuando suelde y pele cables.
+-	Siempre corte la energía y descargue capacitores antes de tocar cualquier parte de un circuito con sus manos.
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 SECCIÓN 1–2 (Notación Científica)
