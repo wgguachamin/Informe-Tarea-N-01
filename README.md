@@ -805,27 +805,52 @@ Figura 2-73
 
 41.	En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
 
-
-
+![image](https://user-images.githubusercontent.com/93960809/141383721-6938c852-6802-49c9-978e-fd3ce97edfb4.png)
 
 43.	¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 
+![image](https://user-images.githubusercontent.com/93960809/141384258-40fa1a83-9005-478f-a6d6-a34718246db0.png)
 
+El voltaje es 250V
 
 45.	Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
 
-	a) manecilla en 2, ajuste de intervalo en 10
+	a) manecilla en 2, ajuste de intervalo en 10 
 	
+	     20 Ω
 	
 	b) manecilla en 15, ajuste de intervalo en 100,000
 	
+	     1.5 MΩ
+	
 	c) manecilla en 45, ajuste de intervalo en 100
+	
+	     45000 Ω
 	
 	
 47.	Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
 
-(a) I1 (b) V1 (c) R1
+	a) I1 
+	
+	     Para calular la corriente 1 realizamos una conexión en serie con el multímetro en cd al circuito.
+	
+	![image](https://user-images.githubusercontent.com/93960809/141392799-e6fa4118-f100-478a-92ea-cbff4accee01.png)
 
+	(b) V1 
+	
+	     Para calular el voltaje 1 realizamos una conexión en paralelo con el multímetro en cd al circuito en la resistencia 1.
+	
+	
+![image](https://user-images.githubusercontent.com/93960809/141393999-b073ef0d-00f4-42bf-be95-2a6f18766532.png)
+
+	
+	(c) R1
+	
+	     Para calular la resistencia 1, primero desconectamos la resistencia de la fuente y seguido a esto realizamos una conexión en paralelo con el multímetro en cd al circuito en Rl.
+
+![image](https://user-images.githubusercontent.com/93960809/141393877-c2679235-408e-4677-89f9-a81c67857915.png)
+ 
+ 
 5. VIDEO
 
 https://www.youtube.com/watch?v=JFnKwiJbRLE
